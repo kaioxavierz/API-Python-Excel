@@ -1,0 +1,2 @@
+method: Create ItemId: 8 Data: 2025-03-03 18:50:50
+method: Update ItemId: 2 previous: [{"id":2,"marca":"Motorola","tipo":"Moto E6S Atualizado","quantidade":30,"custo_producao":13,"preco":20}] Data: 2025-03-03 18:51:24
