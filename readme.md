@@ -1,8 +1,8 @@
 API CRUD EM PYTHON UTILIZANDO PANDAS
 ```
-Requisição Cria -> Atualiza -> Deleta -> Lista Produtos.
-Em cada requisição, a ação é salva em um historio.
-Em cada requisção, é salvo um arquivo no formato xlsx(Excel)
+Requisição Cria -> Atualiza -> Deleta -> Lista Produtos. (Pandas)
+Em cada requisição, a ação é salva em um historio (utilizando fileSystem nativo do python).
+Em cada requisção o arquivo no formato xlsx(Excel) é atualizado.
 Arquitetura apresenta um potencial à futura modularização.
 
 ### Installation
